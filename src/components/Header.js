@@ -3,6 +3,7 @@ import styled from 'styled-components'
 function Header() {
 return (
     <Container>
+        {/*this is header  */}
         <a ><img src="/img/logo.svg" alt="" /></a>
         <Menu>
         <a href="#">Model S</a>
